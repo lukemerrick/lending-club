@@ -1,5 +1,5 @@
 alabaster==0.7.12
-arrow==0.12.1
+arrow==0.15.1
 awscli==1.16.74
 Babel==2.6.0
 backcall==0.1.0
